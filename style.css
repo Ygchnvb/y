@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+hr{
+    border-top: 10px dotted rgb(223, 95, 95);
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+     margin : 30px 0;
+}
+.default{
+     padding: 50px 100px;
+     color:rgb(38, 62, 199);
+     box-sizing: border-box;
+     min-height: 100vh;
+     background-color: rgb(0, 255, 106);
+}
+
+
+.edu {
+     background-color: rgb(36, 212, 154);
+}
+img{
+     height: 200px;
+     display:float;
+     float:right;
+}
